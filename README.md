@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ### 🔭 I’m currently learning Deep Learning and a little bit Wed Development.
+ 
+ ### 😄 Actually, I am totally a green hand in computer science.
