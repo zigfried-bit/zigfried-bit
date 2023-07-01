@@ -32,7 +32,6 @@
     - [c. machine learning](#c-machine-learning)
     - [d. coding](#d-coding)
   - [VII :hotel: Cache](#vii-hotel-cache)
-    - [a.](#a)
   - [VIII :triangular\_ruler: Lib](#viii-triangular_ruler-lib)
     - [a. robotics related](#a-robotics-related)
     - [b. ros related](#b-ros-related)
@@ -49,7 +48,8 @@
 
 ### d. :running: Dynamic-SLAM
 
----
+
+
 
 ## II :sparkles: Algorithm
 ### a. PGO related
@@ -99,7 +99,9 @@
 - [mmtracking](https://github.com/open-mmlab/mmtracking)
 - [kalman-filter-in-single-object-tracking](https://github.com/liuchangji/kalman-filter-in-single-object-tracking)
 - [Kalman-in-MOT](https://github.com/ZhangPHEngr/Kalman-in-MOT)
----
+
+
+
 
 ## III :moneybag: Datasets
 ### a. signle
@@ -108,7 +110,9 @@
 ### b. mulitiple
 - [S3E](https://github.com/PengYu-Team/S3E)
 
----
+
+
+
 ## IV :wrench: Tool
 ### a. SLAM related
 - [evo](https://github.com/MichaelGrupp/evo)
@@ -127,7 +131,10 @@
 
 ### f. coding
 - [gitmoji](https://github.com/carloscuesta/gitmoji)
----
+
+
+
+
 ## V :lollipop: Tips
 ### a. literature related
 - [ZoteroTheme](https://github.com/iShareStuff/ZoteroTheme)
@@ -141,7 +148,10 @@
 - [uiGradients](https://github.com/ghosh/uiGradients)
 - [Micro8](https://github.com/Micropoor/Micro8)
 - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
----
+
+
+
+
 ## VI :notebook: Note
 ### a. SLAM related
 - [LIO-SAM-DetailedNote](https://github.com/smilefacehh/LIO-SAM-DetailedNote)
@@ -164,13 +174,16 @@
 - [learning-area](https://github.com/mdn/learning-area)
 
 
----
+
+
 ## VII :hotel: Cache
-### a.
 - [Non-uniform-quadtree-map](https://github.com/biter0088/Non-uniform-quadtree-map)
 - [opencv-cascade-classifier-test](https://github.com/biter0088/opencv-cascade-classifier-test)
 - [zigfried-bit.github.io](https://github.com/zigfried-bit/zigfried-bit.github.io)
----
+
+
+
+
 ## VIII :triangular_ruler: Lib
 ### a. robotics related
 - [CppRobotics](https://github.com/onlytailei/CppRobotics)
