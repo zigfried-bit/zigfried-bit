@@ -1,5 +1,7 @@
-### 👋 Hi there!
+### :wave: Hi there!
 
-### 🔭 I’m currently studying Co-SLAM.
+### :smiley: I’m currently studying Co-SLAM.
  
-### 💬 My personal homepage: https://zigfried-bit.github.io/ 
+### :house_with_garden: My personal homepage: https://zigfried-bit.github.io/ 
+
+### :star2: My [stars index](StarsIndex.md)
